@@ -19,7 +19,7 @@
 ### WikiChatbot
 - 위키챗봇 데모 코드 및 데모 사이트. Python, HTML, JavaScript 사용
 ### HateSpeechAPI
-- (적어줘)
+- Guard Agent 데모 코드 및 데모 사이트. Python, HTML, Jupyter Notebook(for train) 사용
 
 <br>
 
@@ -53,6 +53,11 @@
 
 ### Guard Agent
 <img src="https://user-images.githubusercontent.com/103883786/209500114-f872557d-7f12-4494-9b7b-fe0676a99860.png" height="400"/>
+
+- 월드에 있는 대화 그룹에 들어가면 다른 친구들과 자유롭게 대화할 수 있음.
+- 대화 내용중에 욕설이 감지되면 왼쪽 상단의 Hate 게이지 바가 올라감.
+- Hate 게이지 바가 올라 일정 비율(현재는 40%)이상이 되면 대화 그룹에 우당당탕한 이미지를 띈 막이 형성됨.
+- 생성된 막은 그룹에서 욕설이 많이 발생하고 있으니 위험하다는 것을 외부에 알려줌.
 
 ### Talking Agent
 <img src="https://user-images.githubusercontent.com/103883786/209500541-51981fe0-ad05-4fdd-9b66-81a1ea5e4224.png" height="400"/>
