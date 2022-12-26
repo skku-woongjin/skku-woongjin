@@ -61,11 +61,19 @@
 - 생성된 막은 그룹에서 욕설이 많이 발생하고 있으니 위험하다는 것을 외부에 알려줌.
 
 ### Talking Agent
+- Visual Game
+<img src="https://user-images.githubusercontent.com/104834390/209536524-76b7f459-d8c6-44e2-90f8-f2091171b602.png" height="400"/>
+
+- Wiki 챗봇
 <img src="https://user-images.githubusercontent.com/103883786/209500541-51981fe0-ad05-4fdd-9b66-81a1ea5e4224.png" height="400"/>
+
+- 위로봇
 <img src="https://user-images.githubusercontent.com/103883786/209500583-0458829d-5a05-4768-9627-d619746f0a43.png" height="400"/>
 
 # 성과
 - 메타버스 교육 플랫폼에 아이들의 발자취를 기록하여, 한쪽에 치우치지 않고 다양한 활동을 탐험할 수 있는 AI Agent 모델 제시
 - 다양한 Talking NPC를 두고 대화 
+- SW 인재 페스티벌 기업상 수상
+
 
 
