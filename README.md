@@ -14,12 +14,15 @@
 - 장소추천 모델 훈련 코드. ShaderLab, C#, HLSL 사용
 ### RecommendAgent_Demo
 - 장소추천 모델 데모 코드. ShaderLab, C#, HLSL 사용
-### comfort_chatbot
-- 위로봇 데모 코드. Python, Html, Javascript 사용
-### WikiChatbot
-- 위키챗봇 데모 코드 및 데모 사이트. Python, HTML, JavaScript 사용
 ### HateSpeechAPI
 - Guard Agent 데모 코드 및 데모 사이트. Python, HTML, Jupyter Notebook(for train) 사용
+### VisualGame
+- 영어 질문에 대한 대답을 가져오는 데모 코드. Python, HTMl 
+### comfort_chatbot
+- 위로봇 데모 코드 및 데모 사이트. Python, Html, Javascript 사용
+### WikiChatbot
+- 위키챗봇 데모 코드 및 데모 사이트. Python, HTML, JavaScript 사용
+
 
 <br>
 
@@ -52,6 +55,9 @@
 ### Guide Agent
 <img src="https://user-images.githubusercontent.com/103883786/209500789-7a737a43-4d66-4209-ae41-d177ba5f93c9.png" height="400"/>
 
+- 아이들의 발자취를 통해 아이의 메타버스 상에서의 선호도를 분석함.
+- 분석 결과를 토대로 아이가 자주 가는 곳 혹은 가지 않는 곳을 추천해줌.
+
 ### Guard Agent
 <img src="https://user-images.githubusercontent.com/103883786/209500114-f872557d-7f12-4494-9b7b-fe0676a99860.png" height="400"/>
 
@@ -61,19 +67,30 @@
 - 생성된 막은 그룹에서 욕설이 많이 발생하고 있으니 위험하다는 것을 외부에 알려줌.
 
 ### Talking Agent
-- Visual Game
+- **Visual Game**
 <img src="https://user-images.githubusercontent.com/104834390/209536524-76b7f459-d8c6-44e2-90f8-f2091171b602.png" height="400"/>
 
-- Wiki 챗봇
+- 영어 QA 게임
+- 다양한 카테고리의 그림이 주어지고 정답 그림에 대한 caption(힌트가 주어짐)
+- 아이는 영어로 정답 그림에 대해 질문을 하고 모델이 그거에 대해 대답을 해줌.
+- 아이는 질문에 대한 대답내용과 caption을 통해 정답을 찾아나감.
+
+- **Wiki 챗봇**
 <img src="https://user-images.githubusercontent.com/103883786/209500541-51981fe0-ad05-4fdd-9b66-81a1ea5e4224.png" height="400"/>
 
-- 위로봇
+- 아이들이 궁금한 것이 있을 때 백과사전처럼 물어볼 수 있는 챗봇
+- Bert와 Wikipedia API를 이용
+
+- **위로봇**
 <img src="https://user-images.githubusercontent.com/103883786/209500583-0458829d-5a05-4768-9627-d619746f0a43.png" height="400"/>
+
+- 아이들이 힘든 일이 있을 때 위로를 해줄 수 있는 챗봇
+- 검색기반과 생성 기반(GPT) 챗봇을 이용
 
 # 성과
 - 메타버스 교육 플랫폼에 아이들의 발자취를 기록하여, 한쪽에 치우치지 않고 다양한 활동을 탐험할 수 있는 AI Agent 모델 제시
 - 다양한 Talking NPC를 두고 대화 
-- SW 인재 페스티벌 기업상 수상
+- SW 인재 페스티벌 기업상, 메타버스 솔루션 챌린지 대상 수상
 
 
 
