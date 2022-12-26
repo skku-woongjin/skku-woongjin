@@ -17,7 +17,7 @@
 ### comfort_chatbot
 - 위로봇 데모 코드. Python, Html, Javascript 사용
 ### WikiChatbot
-- (적어줘)
+- 위키챗봇 데모 코드 및 데모 사이트. Python, HTML, JavaScript 사용
 ### HateSpeechAPI
 - (적어줘)
 
@@ -42,8 +42,8 @@
     - (적어줘)
 - Talking Agent
     - WikiQA봇
-        -아이들이 궁금한 것을 대답해주는 질의응답NPC
-        -Bert와 Wikipedia 이용
+        -아이들이 궁금한 것을 대답해주는 질의응답 NPC
+        -BERT와 Wikipedia 이용
     - 위로봇
         -아이들을 위로해주는 대화NPC
         -검색기반과 문장생성(GPT)를 이용
