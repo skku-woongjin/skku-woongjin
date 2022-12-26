@@ -11,9 +11,9 @@
 ### WJ-combined
 - 통합 데모 유니티 프로젝트
 ### RecommendAgent_Train
-- (적어줘)
+- 장소추천 모델 훈련 코드. ShaderLab, C#, HLSL 사용
 ### RecommendAgent_Demo
-- (적어줘)
+- 장소추천 모델 데모 코드. ShaderLab, C#, HLSL 사용
 ### comfort_chatbot
 - 위로봇 데모 코드. Python, Html, Javascript 사용
 ### WikiChatbot
@@ -39,7 +39,8 @@
 - Unity 기반 메타버스 World 제작/통합 시연
 ### 9월 ~ 12월: 각 Agent 구체화
 - Guide Agent
-    - (적어줘)
+    - 아이들의 발자취를 기반으로 한 장소 추천 시스템 구체화
+    - Quest 데이터 수집 및 구체화
 - Talking Agent
     - WikiQA봇
         -아이들이 궁금한 것을 대답해주는 질의응답 NPC
