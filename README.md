@@ -10,10 +10,14 @@
 # Repository 설명
 ### WJ-combined
 - 통합 데모 유니티 프로젝트
-### repo 이름 
+### RecommendAgent_Train
 - 설명
-### repo 이름
+### RecommendAgent_Demo
 - 설명
+### comfort_chatbot
+- 위로봇 데모
+### HateSpeechAPI
+-
 
 <br>
 
