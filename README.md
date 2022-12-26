@@ -15,9 +15,9 @@
 ### RecommendAgent_Demo
 - (적어줘)
 ### comfort_chatbot
-- 위로봇 데모
+- 위로봇 데모 코드. Python, Html, Javascript 사용
 ### WikiChatbot
--(적어줘)
+- (적어줘)
 ### HateSpeechAPI
 - (적어줘)
 
@@ -57,5 +57,9 @@
 ### Talking Agent
 <img src="https://user-images.githubusercontent.com/103883786/209500541-51981fe0-ad05-4fdd-9b66-81a1ea5e4224.png" height="400"/>
 <img src="https://user-images.githubusercontent.com/103883786/209500583-0458829d-5a05-4768-9627-d619746f0a43.png" height="400"/>
+
+# 성과
+- 메타버스 교육 플랫폼에 아이들의 발자취를 기록하여, 한쪽에 치우치지 않고 다양한 활동을 탐험할 수 있는 AI Agent 모델 제시
+- 다양한 Talking NPC를 두고 대화 
 
 
