@@ -19,7 +19,7 @@
 ### QuestGenerator_wj
 - 키워드를 통한 퀘스트 문장 생성 코드. Python, HTML, Javascript, css 
 ### VisualGame
-- 영어 질문에 대한 대답을 가져오는 데모 코드. Python, HTMl 
+- 영어 질문에 대한 대답을 가져오는 데모 코드. Python, HTML
 ### comfort_chatbot
 - 위로봇 데모 코드 및 데모 사이트. Python, Html, Javascript 사용
 ### WikiChatbot
@@ -69,6 +69,7 @@
 - 생성된 막은 그룹에서 욕설이 많이 발생하고 있으니 위험하다는 것을 외부에 알려줌.
 
 ### Talking Agent
+
 - **Visual Game**
 <img src="https://user-images.githubusercontent.com/104834390/209536524-76b7f459-d8c6-44e2-90f8-f2091171b602.png" height="400"/>
 
