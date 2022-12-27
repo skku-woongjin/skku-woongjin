@@ -16,6 +16,8 @@
 - 장소추천 모델 데모 코드. ShaderLab, C#, HLSL 사용
 ### HateSpeechAPI
 - Guard Agent 데모 코드 및 데모 사이트. Python, HTML, Jupyter Notebook(for train) 사용
+### QuestGenerator_wj
+- 키워드를 통한 퀘스트 문장 생성 코드. Python, HTML, Javascript, css 
 ### VisualGame
 - 영어 질문에 대한 대답을 가져오는 데모 코드. Python, HTMl 
 ### comfort_chatbot
