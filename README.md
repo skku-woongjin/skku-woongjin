@@ -69,22 +69,22 @@
 - 생성된 막은 그룹에서 욕설이 많이 발생하고 있으니 위험하다는 것을 외부에 알려줌.
 
 ### Talking Agent
-
-- **Visual Game**
+<br>
+#### Visual Game
 <img src="https://user-images.githubusercontent.com/104834390/209536524-76b7f459-d8c6-44e2-90f8-f2091171b602.png" height="400"/>
 
 - 영어 QA 게임
 - 다양한 카테고리의 그림이 주어지고 정답 그림에 대한 caption(힌트가 주어짐)
 - 아이는 영어로 정답 그림에 대해 질문을 하고 모델이 그거에 대해 대답을 해줌.
 - 아이는 질문에 대한 대답내용과 caption을 통해 정답을 찾아나감.
-
-- **Wiki 챗봇**
+<br>
+#### Wiki 챗봇
 <img src="https://user-images.githubusercontent.com/103883786/209500541-51981fe0-ad05-4fdd-9b66-81a1ea5e4224.png" height="400"/>
 
 - 아이들이 궁금한 것이 있을 때 백과사전처럼 물어볼 수 있는 챗봇
 - Bert와 Wikipedia API를 이용
-
-- **위로봇**
+<br>
+#### 위로봇
 <img src="https://user-images.githubusercontent.com/103883786/209500583-0458829d-5a05-4768-9627-d619746f0a43.png" height="400"/>
 
 - 아이들이 힘든 일이 있을 때 위로를 해줄 수 있는 챗봇
